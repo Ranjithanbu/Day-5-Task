@@ -1,0 +1,37 @@
+{
+  "name": "Ranjith",
+
+  "email": "ranjith@gmail.com",
+
+  "phone": "9999999999",
+
+  "address": "dubai main road, dubai cross street, dubai, 7767877",
+  
+  "education": [
+    {
+      "degree": "Master of Science in physics",
+
+      "school": "University of Madras",
+
+      "year": 2021
+    }
+  ],
+  
+   
+  "skills": [
+
+    "JavaScript",
+
+    "HTML",
+
+    "CSS",
+
+    "React",
+
+    "Node.js",
+
+    "Git",
+
+    "Problem Solving"
+  ]
+}
